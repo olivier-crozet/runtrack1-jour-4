@@ -1,0 +1,107 @@
+/*olivier*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none
+}
+
+
+li a:hover {
+  background-color: #88c1d0;
+}
+
+	.adimg{
+	position:absolute;
+	top:10px;
+	left:10px;
+	}
+
+.olvideo
+        {
+          margin-right:1800px;
+
+        }
+
+.olpetitlogo
+           {
+            position:absolute;
+            top: 30%;
+            left:55%;
+           }
+
+.oltitre1
+         {
+          position:absolute;
+          top:16%;
+          left:50%;
+         }           
+.oltext1
+      {
+      position:absolute;
+      top:48%;
+      left:37%;
+      font-size:20px;
+      }        
+.olbody
+         {
+          background-color:#275fa0;
+         }
+.ol-mid
+      {
+       color:#ffca4b;
+      } 
+
+.olcoding
+         {
+          position:absolute;
+          max-width: 20%;
+          top:70%;
+          left:50%;
+          font-size:20px;
+          color:#ffca4b;
+         }         
+.olcentral-lab
+            {
+              position:absolute;
+          max-width: 20%;
+          top:150%;
+          left:50%;
+          font-size:20px;
+          color:#ffca4b;
+            }        
+.olexecutive-education
+                  {
+                    position: absolute;
+          text-align: center;                 
+          max-width: 70%;
+          top:100%;
+          
+          font-size:20px;
+          color:#ffca4b;
+                    }  
+.olfoot
+       {
+        position:absolute;
+        top:170%;
+        right:320%;
+        margin-bottom:0px;
+        padding-bottom: 0px;
+       }                                
+              
+
+      /*olivier*/
+      /*plus jamais d'absolute*/
